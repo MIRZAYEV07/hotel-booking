@@ -1,0 +1,3 @@
+POSTGRES DATABASE:
+# CREATE USER "hotel" WITH PASSWORD 'admin';
+# CREATE DATABASE "hotel_db" WITH OWNER "hotel";
